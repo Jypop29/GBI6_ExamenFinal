@@ -1,7 +1,7 @@
 ---
 title: "GBI6 - BIOINFORMÁTICA"
 subtitle: "EXAMEN FINAL"
-author: 'Bryan Villacres'
+author: 'Anderson Yumbo'
 date: "`r Sys.Date()`"
 output:
   html_document:
