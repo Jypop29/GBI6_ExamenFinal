@@ -1,10 +1,13 @@
 
  IntroduccionR
-# Datos personales
-- Nombre: Bryan Anthony Villacres Nieto 
-- Edad: 23
-- Cedula: 1803634714
-# Características del computador
-- Nombre del dispositivo: DESKTOP_SU29NL
-- Procesador:  Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz   2.11 GHz
-- RAM instalda: 8,00 GB (7,78 GB usable) 
+Datos personales
+Anderson Randy Yumbo Liucy
+cedula: 155000600
+celular: 0969274805
+Edad: 21
+anderson.yumbo@est.ikiam.edu.ec
+Características del computador
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz 2.11 GHz
+8,00 GB (7,78 GB usable)
+A0686F35-7EA9-46CB-B801-24EB743C5B6F
+Sistema operativo de 64 bits, procesador basado en x64
